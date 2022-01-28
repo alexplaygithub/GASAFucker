@@ -1,4 +1,4 @@
-print("n o")
+print("lmfaoooooooooooooooooooo why did you open the console???")
 game:GetService("StarterGui"):SetCore("SendNotification",{     
 Title = "a fucking notification",     
 Text = "GASA4 is cringe",
