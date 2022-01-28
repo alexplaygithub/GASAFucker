@@ -1836,7 +1836,7 @@ if game.CoreGui:FindFirstChild("Library") then
    return Tabs
   end
 -- oofhead should stop making jokes
-local Win = VLib:Window("GASAFucker", "aalex#2536")
+local Win = VLib:Window("GASAFucker", "nigger")
 local Main = Win:Tab("Stuff")
 local Others = Win:Tab("Others")
 local Misc = Win:Tab("Misc")
